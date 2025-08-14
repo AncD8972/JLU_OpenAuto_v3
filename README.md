@@ -4,6 +4,9 @@
 
 本项目是吉林大学自动化类生存攻略的延续，旨在扩展jlu通信学院(南岭)的大学生涯相关经验。JLU-OpenAuto_v3接续前19级沈学长的 `jlu-OpenAuto` 和20级宋学长的 `gitee` 项目，结合历届学长学姐的宝贵经验，为自动化/机器人/空间专业同学提供更全面的学习与职业发展资料。
 > 注: 为避免工程冗余，往届的相关经验请查询以下19级/20级的JLU-OpenAuto网站链接。
+### 项目链接&参考
+- **沈学长的GitHub**: [JLU-OpenAuto](https://github.com/jlshen025/JLU-OpenAuto)
+- **宋学长的Gitee**: [JLU-OpenAuto](https://gitee.com/songjh_shiyt/jlu-open-auto/tree/master)
 
 ## 创建者前言
 
@@ -37,9 +40,6 @@
 - **20级** 机器人工程 宋学长  
 - **21级** 自动化 D学长
 
-## 项目链接
-- **沈学长的GitHub**: [JLU-OpenAuto](https://github.com/jlshen025/JLU-OpenAuto)
-- **宋学长的Gitee**: [JLU-OpenAuto](https://gitee.com/songjh_shiyt/jlu-open-auto/tree/master)
 
 # 特别鸣谢-贡献者(以下排名不分先后)
 感谢以下同学们的鼎力支持，让 JLU-OpenAuto 项目得以一届又一届地丰富与传承。
