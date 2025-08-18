@@ -30,13 +30,13 @@
 
 ## [liuwh](./21-liuwh-Duke)
 - 申请条件: GPA(学校)： 3.75 GPA(WES): 3.81 均分: 91，竞赛<sup>1</sup>，科研经历<sup>1</sup>，一等奖学金<sup>1</sup>。
-- offer情况5：
-- Duke 大学（25 USNEWS #6）ECE（Electrical and Computer Engineering）专业 or Machine Learning & Big Data 分支
-- 宾夕法尼亚大学 EE（常春藤，25 USNEWS #10，qs #11）
-- 布朗大学 ECE （常春藤，25 USNEWS #13）
-- 约翰霍普金斯 ECE（25 USNEWS #6）
-- 南加州 ECE （25 USNEWS #27）:
-- 最终去向：Duke。
+- 5 offer情况：
+    - Duke 大学（25 USNEWS #6）ECE（Electrical and Computer Engineering）专业 or Machine Learning & Big Data 分支
+    - 宾夕法尼亚大学 EE（常春藤，25 USNEWS #10，qs #11）
+    - 布朗大学 ECE （常春藤，25 USNEWS #13）
+    - 约翰霍普金斯 ECE（25 USNEWS #6）
+    - 南加州 ECE （25 USNEWS #27）:
+    - 最终去向：Duke。
 
 # 快问快答
 ## 新国立 3+1+1 项目
