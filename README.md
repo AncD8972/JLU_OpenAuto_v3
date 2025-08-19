@@ -53,10 +53,11 @@
 - sjh、mjy、zyr、zhr、lty、fdx、wk、whj、myl、cyc、wwj
 ### 21级
 #### 保研
-- 自动化 D学长、K学姐、G学长、L学长、W学姐、Z学长、A学姐
-- 机器人 Z学姐
-- 空间 H学长、DTF
-- 经验分享会参与者 感谢10位学长学姐在2025.05.24线下参加第三届薪火相传保研分享会(详见ppt)
+- 自动化 D学长丁佳驹、K学姐kxy、G学长gh、L学长ljb、W学姐wjy、Z学长zdk、A学姐ay
+- 机器人 Z学姐zyt
+- 空间 H学长hr、DTF
+- 经验分享会参与者 D学长、gm、gh、wjj、kxy、ay、gxy、zyt、lhp、liuwh
+    - 感谢10位学长学姐在2025.05.24线下参加第三届薪火相传保研分享会(详见ppt)
 #### 考研
 - 自动化 zz学长
 ### 22级
